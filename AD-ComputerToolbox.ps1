@@ -1,5 +1,4 @@
-﻿```powershell
-#requires -Modules ActiveDirectory
+﻿#requires -Modules ActiveDirectory
 
 Clear-Host
 
@@ -291,4 +290,3 @@ Write-Host "==================================================" -ForegroundColor
 Write-Host ""
 
 Pause
-```
